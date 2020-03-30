@@ -17,6 +17,11 @@ public class Enemy : MonoBehaviour
     private bool _faceRight;
     private Animator _animator;
 
+    public void SetPath(Transform path)
+    {
+        _path = path;
+    }
+    
     private void Start()
     {
         _currentPoint = 0;

@@ -66,6 +66,8 @@
      <Compile Include="Assets\Scripts\2dPlatformer\Player.cs" />
      <Compile Include="Assets\Scripts\2dPlatformer\UserInput.cs" />
      <Compile Include="Assets\Scripts\Signaling\SecretRoom.cs" />
+     <Compile Include="Assets\Scripts\Spawner\SpawnPoint.cs" />
+     <Compile Include="Assets\Scripts\Spawner\Spawner.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/User/Documents/2dPlat/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

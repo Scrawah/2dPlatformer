@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_2dPlat.-631034956.00" t="ExcludeRecursive" />
+    <e p="C:\Users\User\Documents\2dPlat" t="IncludeRecursive">
+      <e p="2dPlat.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="2dPlatformer" t="Include">
+            <e p="Blink.cs" t="Include" />
+            <e p="Coin.cs" t="Include" />
+            <e p="Door.cs" t="Include" />
+            <e p="Enemy.cs" t="Include" />
+            <e p="GameFinishTrigger.cs" t="Include" />
+            <e p="Player.cs" t="Include" />
+            <e p="UserInput.cs" t="Include" />
+          </e>
+          <e p="Signaling" t="Include">
+            <e p="SecretRoom.cs" t="Include" />
+          </e>
+          <e p="Spawner" t="Include">
+            <e p="Spawner.cs" t="Include" />
+            <e p="SpawnPoint.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
